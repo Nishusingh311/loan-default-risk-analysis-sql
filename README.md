@@ -1,3 +1,4 @@
+
 ## Business Questions Addressed
 
 This project aims to answer the following business questions from a credit risk perspective:
@@ -32,3 +33,4 @@ This project aims to answer the following business questions from a credit risk 
 - Apply stricter credit checks or higher pricing for low-income, high-interest borrowers.
 - Limit exposure to long-tenure loans or introduce tighter monitoring.
 - Reassess risk pricing for loan purposes with consistently high default rates.
+
